@@ -5,4 +5,4 @@ allowing them to track stock performance and simulate stock purchases effectivel
 • The website and Line Bot’s backend are developed with Flask and hosted on Heroku, with the database hosted on
 AWS RDS.
 
-repo link: https://github.com/David810209/database-FinalProject/blob/main/Database_Final_Project.pdf
+repo link: https://github.com/Henry7090/Database_Final_Project/blob/main/Database_Final_Project.pdf
